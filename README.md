@@ -1,6 +1,6 @@
 # 🚀 SAP S-Predict: Sales Delivery Delay Analysis [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org) [![SAP](https://img.shields.io/badge/SAP-RAP-blueviolet?style=flat&logo=sap&logoColor=white)](https://sap.com)
 
-![Dashboard Preview](Data/dashboard_screenshot.png)
+
 
 
 ### 📌 Project Overview
