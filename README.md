@@ -1,4 +1,4 @@
-# 🚀 SAP S-Predict: Supply Chain Risk Analytics
+# 🚀 SAP S-Predict: Sales Delivery Delay Analysis
 
 ### 📌 Project Overview
 **S-Predict** is an end-to-end analytical solution designed to identify risks in the supply chain. It bridges the gap between **SAP S/4HANA (Backend)** and **Python/Power BI** to provide real-time visibility into order delays and revenue at risk.
